@@ -1,0 +1,24 @@
+{
+  "name": "p",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^10.16.5",
+    "gsap": "^3.12.2",
+    "next": "14.0.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "sass": "^1.69.5",
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.2"
+  }
+}
